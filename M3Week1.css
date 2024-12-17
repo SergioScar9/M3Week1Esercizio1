@@ -1,0 +1,36 @@
+.col-md-6 h1 {
+  background-color: green;
+}
+nav > span {
+  background-color: green;
+}
+.col-md-6 p a {
+  background-color: green;
+}
+.blog-main h3 + div {
+  background-color: blue;
+}
+.blog-post hr {
+  background-color: red;
+}
+nav span:nth-of-type(even) {
+  background-color: blue;
+}
+.p-4 .list-unstyled.mb-0 li {
+  background: rgb(255, 174, 0);
+}
+.blog-main :nth-child(3) h2 + p a {
+  background-color: green;
+}
+.blog-main :nth-child(4) ul :nth-child(2) {
+  background-color: green;
+}
+.float-right {
+  background-color: red;
+}
+.btn-outline-secondary.disabled {
+  background-color: yellow;
+}
+footer p :nth-child(2) {
+  background-color: blueviolet;
+}
